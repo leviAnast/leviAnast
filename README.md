@@ -1,22 +1,11 @@
-## Olá! 😁​
+## Olá! 😁
 
 **Eu me chamo Levi Anastácio, atualmente sou graduando no curso de Ciência da Computação pela Universidade Federal do Ceará.**
 
 Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviAnast&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**leviAnast/leviAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leviAnast&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leviAnast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
