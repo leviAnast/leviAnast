@@ -4,11 +4,6 @@
 
 Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=seu-usuario)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=seu-usuario&theme=dark)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **leviAnast/leviAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
