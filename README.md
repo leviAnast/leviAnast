@@ -21,7 +21,3 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leviAnast&theme=dark)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leviAnast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
