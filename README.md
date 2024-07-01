@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá! 😁​
+
+** Eu me chamo Levi Anastácio, atualmente sou graduando no curso de Ciência da Computação pela Universidade Federal do Ceará. **
+
+Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
+
 
 <!--
 **leviAnast/leviAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
