@@ -4,7 +4,7 @@
 
 Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
 
-<div>
+<div style="display: flex; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact&theme=dark"/>
 </div>
@@ -17,8 +17,11 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
 ### Tecnologias que utilizo:
 <div>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leviAnast&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leviAnast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
