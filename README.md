@@ -4,7 +4,7 @@
 
 Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviAnast&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **leviAnast/leviAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
