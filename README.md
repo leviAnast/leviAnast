@@ -6,7 +6,6 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leviAnast&theme=dracula)]
 <!--
 **leviAnast/leviAnast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
