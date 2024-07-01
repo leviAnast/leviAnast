@@ -5,8 +5,8 @@
 Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=dark"/>
-  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact&theme=dark"/>
+  <img height="180em" width="800em" src="https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=dark"/>
+  <img height="180em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact&theme=dark"/>
 </div>
 
 ### Contatos:
