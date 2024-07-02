@@ -8,6 +8,7 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact&theme=dark&langs_count=1"/>
 </div>
+
 ### Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-anast%C3%A1cio-4a504430b/)
