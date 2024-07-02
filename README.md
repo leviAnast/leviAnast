@@ -6,11 +6,7 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
 <br/><br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leviAnast&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=leviAnast&show_icons=true&theme=dark)
-
-<div align="center">
-  <img height="180em" src=""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact&theme=dark&langs_count=1"/>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leviAnast&layout=compact&theme=dark&langs_count=1)
 
 ### Contatos:
 
