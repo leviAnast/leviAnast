@@ -7,7 +7,6 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviAnast&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leviAnast&theme=github_dark)
 
-
 ### Tecnologias que utilizo:
 <div style="display: inline_block">
 
