@@ -26,3 +26,4 @@ Neste perfil, deixarei registrado meus principais projetos construídos ao longo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levisouza440@gmail.com)
 
 
+
