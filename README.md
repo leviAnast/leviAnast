@@ -1,7 +1,6 @@
 ## Olá! 😁
 
 **Eu me chamo Levi Anastácio, atualmente sou graduando no curso de Ciência da Computação pela Universidade Federal do Ceará.**
-
 Neste perfil, deixarei registrado meus principais projetos construídos ao longo da graduação e também meus projetos pessoais.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leviAnast&theme=github_dark)
